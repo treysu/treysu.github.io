@@ -4,7 +4,7 @@ Welcome to my GitHub Pages site! This website is hosted on GitHub Pages and serv
 
 ## 🌐 Site Overview
 
-This site is accessible at [treysullivent.github.io](https://treysullivent.github.io). It contains the following sections:
+This site is accessible at [treysu.github.io](https://treysu.github.io). It contains the following sections:
 
 - **Nothing**: This site is a work in progress, and currently contains nothing.
 
@@ -16,7 +16,7 @@ To run the site locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/treysullivent/treysullivent.github.io.git
+   git clone https://github.com/treysu/treysu.github.io.git
    ```
 2. **Open `index.html`**: Navigate to the directory and open `index.html` in your preferred web browser.
 
